@@ -4,7 +4,7 @@
  * with robust try/catch graceful fallback handling.
  */
 
-export const FASTAPI_BASE_URL = 'https://wto-bruce-rate-creating.trycloudflare.com';
+export const FASTAPI_BASE_URL = 'https://atomic-affiliation-resident-chronic.trycloudflare.com';
 const LOCAL_EXPRESS_URL = '';
 
 export interface AssignmentItem {

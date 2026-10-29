@@ -13,6 +13,7 @@
 [![Vercel Deployment](https://img.shields.io/badge/▲_DEPLOYED_ON-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chain-of-proof.vercel.app/)
 [![Development Studio](https://img.shields.io/badge/🛠️_DEV_STUDIO-Port_3000-84CC16?style=for-the-badge&logo=vite&logoColor=white)](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
 [![Compliance EU Directive](https://img.shields.io/badge/EU_Directive_2023%2F1542-COMPLIANT-10B981?style=for-the-badge&logo=europeanunion&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![QpiAI API Cloudflare](https://img.shields.io/badge/🌐_QpiAI_FastAPI-Cloudflare_Tunnel-F43F5E?style=for-the-badge&logo=cloudflare&logoColor=white)](https://atomic-affiliation-resident-chronic.trycloudflare.com)
 
 <br/>
 
