@@ -21,7 +21,7 @@
 [![Web3 Standard](https://img.shields.io/badge/Web3_Ledger-SHA256_%2B_ECDSA-F59E0B?style=flat-square&logo=ethereum&logoColor=white)](https://chain-of-proof.vercel.app/)
 [![3D Digital Twin](https://img.shields.io/badge/Three.js-WebGL_Twin-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://chain-of-proof.vercel.app/)
 [![Build Status](https://img.shields.io/badge/Build-PASSED-10B981?style=flat-square&logo=checkmarx&logoColor=white)](https://chain-of-proof.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
 
 <br/>
 
