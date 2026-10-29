@@ -9,24 +9,25 @@
 
 <br/>
 
-[![Live Demo Application](https://img.shields.io/badge/⚡_LIVE_DEMO-Chain_of_Proof-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
+[![Live Demo Application](https://img.shields.io/badge/⚡_LIVE_DEMO-chain--of--proof.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![Vercel Deployment](https://img.shields.io/badge/▲_DEPLOYED_ON-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chain-of-proof.vercel.app/)
 [![Development Studio](https://img.shields.io/badge/🛠️_DEV_STUDIO-Port_3000-84CC16?style=for-the-badge&logo=vite&logoColor=white)](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
-[![Compliance EU Directive](https://img.shields.io/badge/EU_Directive_2023%2F1542-COMPLIANT-10B981?style=for-the-badge&logo=europeanunion&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
+[![Compliance EU Directive](https://img.shields.io/badge/EU_Directive_2023%2F1542-COMPLIANT-10B981?style=for-the-badge&logo=europeanunion&logoColor=white)](https://chain-of-proof.vercel.app/)
 
 <br/>
 
-[![QpiAI Engine](https://img.shields.io/badge/QpiAI_Opt-QUBO_SOLVER_v3.2-8B5CF6?style=flat-square&logo=quantum&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
-[![QCloud QRNG](https://img.shields.io/badge/QCloud_Hardware-128--bit_QRNG-0284C7?style=flat-square&logo=atom&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
-[![Web3 Standard](https://img.shields.io/badge/Web3_Ledger-SHA256_%2B_ECDSA-F59E0B?style=flat-square&logo=ethereum&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
-[![3D Digital Twin](https://img.shields.io/badge/Three.js-WebGL_Twin-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
-[![Build Status](https://img.shields.io/badge/Build-PASSED-10B981?style=flat-square&logo=checkmarx&logoColor=white)](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)
+[![QpiAI Engine](https://img.shields.io/badge/QpiAI_Opt-QUBO_SOLVER_v3.2-8B5CF6?style=flat-square&logo=quantum&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![QCloud QRNG](https://img.shields.io/badge/QCloud_Hardware-128--bit_QRNG-0284C7?style=flat-square&logo=atom&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![Web3 Standard](https://img.shields.io/badge/Web3_Ledger-SHA256_%2B_ECDSA-F59E0B?style=flat-square&logo=ethereum&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![3D Digital Twin](https://img.shields.io/badge/Three.js-WebGL_Twin-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://chain-of-proof.vercel.app/)
+[![Build Status](https://img.shields.io/badge/Build-PASSED-10B981?style=flat-square&logo=checkmarx&logoColor=white)](https://chain-of-proof.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 <br/>
 
 > **Role-aware EV battery passport, disposition lifecycle tracking, and cryptographically verifiable material recovery audit platform powered by QpiAI Quantum Computing, QCloud 128-bit QRNG Nonces, and EU Battery Directive 2023/1542 Compliance Engines.**
 
-[🌐 **Launch Live Platform**](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [🛠️ **Open Dev Studio**](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [📖 **Quantum Architecture**](#-qpiai-ecosystem-deep-dive) • [🧮 **Mass Conservation**](#-mass-conservation-audit-engine)
+[🌐 **Launch Live Demo (Vercel)**](https://chain-of-proof.vercel.app/) • [⚡ **Cloud Run Demo**](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [🛠️ **Open Dev Studio**](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [📖 **Quantum Architecture**](#-qpiai-ecosystem-deep-dive) • [🧮 **Mass Conservation**](#-mass-conservation-audit-engine)
 
 ---
 
@@ -333,7 +334,7 @@ npm run build
 <div align="center">
 
 ### ⚡ LIVE STATUS: ONLINE
-**[🌐 Launch Live Application](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)** • **[🛠️ Access Dev Studio](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)**
+**[🌐 Launch Live Application (Vercel)](https://chain-of-proof.vercel.app/)** • **[⚡ Cloud Run Deployment](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)** • **[🛠️ Access Dev Studio](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)**
 
 *Crafted for sustainable circular EV battery value chains powered by QpiAI Quantum Computing.*
 
