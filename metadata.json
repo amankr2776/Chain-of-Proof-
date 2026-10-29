@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Chain of Proof",
+  "description": "Role-aware EV battery passport, disposition lifecycle tracking, and cryptographically verifiable material recovery audit platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
