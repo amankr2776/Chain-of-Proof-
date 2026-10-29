@@ -27,7 +27,7 @@
 
 > **Role-aware EV battery passport, disposition lifecycle tracking, and cryptographically verifiable material recovery audit platform powered by QpiAI Quantum Computing, QCloud 128-bit QRNG Nonces, and EU Battery Directive 2023/1542 Compliance Engines.**
 
-[🌐 **Launch Live Demo (Vercel)**](https://chain-of-proof.vercel.app/) • [⚡ **Cloud Run Demo**](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [🛠️ **Open Dev Studio**](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [📖 **Quantum Architecture**](#-qpiai-ecosystem-deep-dive) • [🧮 **Mass Conservation**](#-mass-conservation-audit-engine)
+[🌐 **Launch Live Demo**](https://chain-of-proof.vercel.app/) • [🛠️ **Open Dev Studio**](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app) • [📖 **Quantum Architecture**](#-qpiai-ecosystem-deep-dive) • [🧮 **Mass Conservation**](#-mass-conservation-audit-engine)
 
 ---
 
@@ -334,7 +334,7 @@ npm run build
 <div align="center">
 
 ### ⚡ LIVE STATUS: ONLINE
-**[🌐 Launch Live Application (Vercel)](https://chain-of-proof.vercel.app/)** • **[⚡ Cloud Run Deployment](https://ais-pre-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)** • **[🛠️ Access Dev Studio](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)**
+**[🌐 Launch Live Application](https://chain-of-proof.vercel.app/)** • **[🛠️ Access Dev Studio](https://ais-dev-zur4riys5nqphdcthg5i2p-150209175765.asia-southeast1.run.app)**
 
 *Crafted for sustainable circular EV battery value chains powered by QpiAI Quantum Computing.*
 
